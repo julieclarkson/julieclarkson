@@ -7,9 +7,7 @@ I build and release my own AI products. I can bring that practice to your team.
 
 Check out my website julieclarkson.com. There you can find how I work, and contract availability.
 
-Why my repositories are private
-
-My products are commercial software owned by Jacobus Company, LLC, and their source stays private. As I release things publicly, they will show up here.
+Why my repositories are private because they are commercial software owned by Jacobus Company, LLC, and their source stays private. As I release things publicly, they will show up here.
 
 The products themselves are live and need no account — see them on the site.
 
