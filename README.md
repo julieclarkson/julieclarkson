@@ -1,17 +1,31 @@
-## Hi there 👋
-I am Julie Clarkson, an Applied AI Product Builder, Consultant and Educator. 
+## Julie Clarkson 👋
+## Applied AI Product Builder · Consultant · Educator
 
-I live in Charlotte, North Carolina and am the founder of Jacobus Company, LLC.
+📍 Charlotte, North Carolina  ·  🏢 Founder, Jacobus Company, LLC
 
 I build and release my own AI products. I can bring that practice to your team.
 
-Check out my website julieclarkson.com. There you can find how I work, and contract availability.
+🔗 Start here
+→ julieclarkson.com
 
-Why my repositories are private because they are commercial software owned by Jacobus Company, LLC, and their source stays private. As I release things publicly, they will show up here.
+The products, how I work, and what I'm available for.
 
-The products themselves are live and need no account — see them on the site.
+🔒 Why my repositories are private
+	
+💼	My products are commercial software owned by Jacobus Company, LLC
+🔐	The source stays private — as I release things publicly, they'll show up here
+✅	The products themselves are live, free to try, and need no account
+🧰 What I work with
 
-Julie Builds with AI · LinkedIn [https://www.linkedin.com/in/juliejclarkson]· 
-X [@julieishuman]
+Current AI models   Full-stack development   Agent-assisted workflows Product strategy   UX   Public data   Astro   React   TypeScript
 
-<sub>Jacobus Company, LLC · Charlotte, North Carolina</sub>
+💬 Elsewhere
+	
+✍️	Julie Builds with AI — what I'm learning as I build
+💼	LinkedIn
+𝕏	@julieishuman
+📬 Open to julie@julieclarkson.com
+
+Corporate contracts  ·  Consulting engagements  ·  Practical team education
+
+<sub>Jacobus Company, LLC, doing business as Superfly Web Designs</sub>
